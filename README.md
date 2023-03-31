@@ -56,6 +56,9 @@ string emailId = "Your_EmailId_Here";
 string apiSecretKey = "Your_JWT_SecretKey_Here";
 string apiKey = "Your_JWT_APIKey_Here";
 
+![image](https://user-images.githubusercontent.com/116707628/229043985-7d0054f4-29da-4c47-920d-72e17b763aa0.png)
+
+
 We have many carts from JWT Cart you can generate those keys and paste it on Create Controller from line 23 to 26.
 
 We are also using Zoom SDK key and SDK Secret in our React Components Meeting and Join Meeting. That is also on temporary basis and can be expired . So you can generate those keys from the same link from SDK cart. 
